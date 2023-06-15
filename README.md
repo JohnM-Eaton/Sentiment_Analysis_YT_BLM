@@ -10,6 +10,6 @@ As seen in Figure 1, which denotes the number of word sentiments and emotions fo
 
 ![](https://github.com/JohnM-Eaton/Sentiment_Analysis_YT_BLM/blob/main/Figure%201.svg)
 
-![](https://github.com/JohnM-Eaton/Sentiment_Analysis_YT_BLM/blob/main/Figure%202.svg)
+![](https://github.com/JohnM-Eaton/Sentiment_Analysis_YT_BLM/blob/main/Figure%202.svg) 
 
 Figure 2 shows a breakdown of each sentiment and emotion by the top ten words in each category. Here, one can see a clearer picture of where the comment sentiments lie. The number one word associated with the “positive” sentiment and “trust” emotion is “police.” Likewise, the second most word associated with “positive” and “trust” and the number one word associated with “joy” and “anticipation” is “white.” Curiously, there is also a recurrence of the word “god,” which has top spots in “positive”, “joy”, “trust”, “anticipation”, and “fear”. Also telling, is the absence of references to President Trump in negative sentiment/emotions. Yet, the president does appear in the “positive”, “surprise”, and “trust” sentiment/emotions. In summary, the positive sentiment/emotions favors the police, whites, God, and Trump. 
