@@ -8,7 +8,7 @@ The data were acquired using the R package ‘tuber’ version 0.9.9 (Gaurav, 20
 
 As seen in Figure 1, which denotes the number of word sentiments and emotions for all comments from all videos, it appears as though the sentiments and emotions skew slightly negative.  In a separate analysis, this overall trend continued; there was no significant variation in sentiment for comments when comparing across channels. 
 
-![](https://github.com/JohnM-Eaton/Sentiment_Analysis_YT_BLM/blob/main/Figure 1.svg)
+![]([https://github.com/JohnM-Eaton/Sentiment_Analysis_YT_BLM/blob/main/Figure 1.svg])
 
 ![](https://github.com/JohnM-Eaton/Sentiment_Analysis_YT_BLM/blob/main/Figure 2.svg)
 
