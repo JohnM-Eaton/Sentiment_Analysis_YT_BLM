@@ -1,1 +1,3 @@
-# Sentiment_Analysis_YT_BLM
+# Sentiment_Analysis on YouTube Videos featuring BLM 2020
+
+In the aftermath of George Floyd’s death, multiple peaceful protests and violent riots occurred across various American cities. I wrote a paper to examine the various sentiments individuals have regarding these protests and riots. Specifically, did these protests sparked support for the Black Lives Matter cause? Or have they renewed support among individuals for police officers? To explore this subject, comment data were gathered from ten of the most highly viewed YouTube videos featuring footage of the protests. A sentiment analysis of these comments revealed more positive sentiments and emotions regarding the police and white people in general than the black cause. 
